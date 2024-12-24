@@ -1,0 +1,12 @@
+# File types
+*.csv
+*.out*
+*.png
+*.pt
+*.pyc
+*.DS_Store
+
+# Folders
+.vscode/*
+saved_models/*
+tmp/*
